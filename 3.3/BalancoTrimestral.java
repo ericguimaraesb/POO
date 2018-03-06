@@ -9,7 +9,7 @@ class BalancoTrimestral{
 		int mediaTrim = gastosTrimestre/3;
 
 		System.out.println("Os gastos no trimestre forao de: "+gastosTrimestre);
-		System.out.println("A media do trimestre foi de: "+mediaTrim);
+		System.out.println("A media no trimestre foi de: "+mediaTrim);
 
 	}
 }
